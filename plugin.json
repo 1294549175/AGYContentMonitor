@@ -1,0 +1,12 @@
+{
+  "name": "context-monitor",
+  "displayName": "Context Monitor",
+  "description": "Multi-session Antigravity context token monitor: view active and inactive sessions, cache hit rates, and remaining context windows in one panel.",
+  "version": "0.3.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "打开 Context Monitor 查看当前所有会话的 Token 消耗",
+    "对比当前工作区各会话的剩余上下文窗口长度",
+    "列出本机所有近期 Antigravity 会话的 Token 使用情况"
+  ]
+}

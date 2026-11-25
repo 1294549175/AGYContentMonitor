@@ -1,0 +1,14 @@
+# 依赖与构建中间产物（保留 dist/server.mjs 和 dist/app.html 作为可用构建产物）
+node_modules/
+dist/ui.js
+
+# 日志与缓存
+*.log
+npm-debug.log*
+*.tsbuildinfo
+
+# 临时与系统文件
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
